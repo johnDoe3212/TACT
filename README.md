@@ -1,4 +1,4 @@
-# TACT
+# Initializer
 
 ## Project structure
 
